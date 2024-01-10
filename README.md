@@ -255,7 +255,7 @@ A map from another world of frozen peaks and haunted hotels - just in time for O
 
 ### Emulation
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Celestial.png?raw=true" alt="Emulation Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Emulation.png?raw=true" alt="Emulation Map Image" width="500"/>
 
 A map small enough to fit on an old TV screen.
 
