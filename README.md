@@ -1,17 +1,17 @@
 # Overhaul Maps:
 
-A set of unique maps that tend to have fun gimmicks and dynamic elements that encourage map-centric play.
+A set of unique 8-player maps that tend to have fun gimmicks and dynamic elements that encourage map-centric play.
 
-# It is recommended that you reduce the screen shake settings by going to Mods -> Performance Improvements -> Miscellaneous and reducing the screen shake strength value from 100 to ~10. The overhead light shake and chromatic aberrations can also be disabled if desired.
+Additional information like the Changelog are in tabs above.
 
-<img src="https://cdn.discordapp.com/attachments/1042927724265754724/1045768042254172220/Performance_-1.gif" alt="How to GIF" width="500"/>
+## It is recommended that you reduce the screen shake settings by going to Mods -> Performance Improvements -> Miscellaneous and reducing the screen shake strength value from 100 to ~10. The overhead light shake and chromatic aberrations can also be disabled if desired.
 
-# You can also simply just turn on the settings of the ToggleEffects mod.
+## You can also simply just turn on the settings of the ToggleEffects mod. If they are not already enabled.
 
 # Current Maps:
-#### Adds 49 maps
+#### Adds 69 maps
 
-(Note: liquids, black boxes, some ropes, and other things do not appear properly on the map images)
+(Note: liquids, black boxes, some ropes, and other things may not appear properly on the map images)
 
 ### Orbitals
 
@@ -33,9 +33,9 @@ A map with a large saw running through the center at set intervals. Get to safet
 
 ### Oscillating
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Oscillating.png?raw=true" alt="Oscillating Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Oscillating.jpg?raw=true" alt="Oscillating Map Image" width="500"/>
 
-A map with spinning ground and a moving platform at the bottom.
+A illusionary and mystical map with two moving platforms and many spinning orbs.
 
 ### Balance
 
@@ -45,15 +45,15 @@ A map consisting of two scales that sway back and forth. Use your bullets on the
 
 ### Lurch
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Lurchh.png?raw=true" alt="Lurch Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Lurch.png?raw=true" alt="Lurch Map Image" width="500"/>
 
 A map consisting of a box with saws occasionally rushing across the map back and forth. Stay out of its way.
 
 ### Overhaul
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Overhaul.png?raw=true" alt="Overhaul Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Overhaul.jpg?raw=true" alt="Overhaul Map Image" width="500"/>
 
-A small map similar to the mod's logo.
+A small map that is themed around the mod's logo with the phrase "OVERHAUL MAPS" spelled out using sprites relevant to the mod.
 
 ### Broadside
 
@@ -115,21 +115,21 @@ A water map with two barely-held-together ships.
 
 A map in which you must break the terrain to make a path to your opponents.
 
-### Hyper Tubes
+### Pneumatic
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/HyperTubes.png?raw=true" alt="Hyper Tubes Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Pneumatic.jpg?raw=true" alt="Pneumatic Map Image" width="500"/>
 
 A segmented map connected with hyper tubes that quickly transport you.
 
-### Pinball Machine
+### Pinballin'
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/PinballMachine.png?raw=true" alt="Pinball Machine Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/PinballMachine.png?raw=true" alt="Pinballin' Map Image" width="500"/>
 
 A map based around a malfuctioning pinball machine that launches balls around the map.
 
 ### Recursion
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Recursion.png?raw=true" alt="Recursion Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Recursion.jpg?raw=true" alt="Recursion Map Image" width="500"/>
 
 A map with repeating elements. A map with repeating elements. A map with repeating elements.
 
@@ -153,9 +153,9 @@ A map with moving platforms and saws that separate and then come together again.
 
 ### Weave
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Weave.png?raw=true" alt="Weave Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Weave.jpg?raw=true" alt="Weave Map Image" width="500"/>
 
-A map with fast saws that swing by from off screen at regular intervals. Harmless green background blocks alternate between saw cycles.
+A map with fast saws that swing by from off screen at regular intervals.
 
 ### Division
 
@@ -189,7 +189,7 @@ A map with two sides: blocks will blink in and out of existence every 3 seconds 
 
 ### Falling Down
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/FallingDown.png?raw=true" alt="Falling Down Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/FallingDown.jpg?raw=true" alt="Falling Down Map Image" width="500"/>
 
 A map consisting of several vertical platforms slowly falling down and reappearing at the top. You must constantly climb upwards as you fight.
 
@@ -201,19 +201,19 @@ A map consisting of several horizontal platforms slowly rising up and reappearin
 
 ### Pipe Dream
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/PipeDream.png?raw=true" alt="Pipe Dream Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/PipeDream.jpg?raw=true" alt="Pipe Dream Map Image" width="500"/>
 
 A map consisting of several pipes that constantly move left as more appear from the right. Weave between the pipes like some bird.
 
 ### Rotational
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Rotational.png?raw=true" alt="Rotational Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Rotational.jpg?raw=true" alt="Rotational Map Image" width="500"/>
 
 A map inside a box that rotates round and round.
 
 ### Origins
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Origins.png?raw=true" alt="Origins Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Origins.jpg?raw=true" alt="Origins Map Image" width="500"/>
 
 An old-school map consisting of a ping pong match in which you must dodge the ball as points are scored. The map resets when 3 points are earned.
 
@@ -243,7 +243,7 @@ A simple map that perpetually plays out a game of Tic Tac Toe.
 
 ### Poltergeist
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Poltergeist.png?raw=true" alt="Poltergeist Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Poltergeist.jpg?raw=true" alt="Poltergeist Map Image" width="500"/>
 
 A map consisting of various ghosts that fade in and out of view.
 
@@ -255,9 +255,9 @@ A map from another world of frozen peaks and haunted hotels - just in time for O
 
 ### Emulation
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Emulation.png?raw=true" alt="Emulation Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Emulation.jpg?raw=true" alt="Emulation Map Image" width="500"/>
 
-A map small enough to fit on an old TV screen.
+A map centered around a busted old TV.
 
 ### Down Under
 
@@ -301,11 +301,132 @@ A roaming map that is set on a train with unique train cars.
 
 A roaming map set in a lab of a mad scientist with a functioning teleporter. Just stand still on the teleporting block to warp.
 
-### Holy Mountain
+### Brickwork
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/HolyMountain.jpg?raw=true" alt="Holy Mountain Map Image" width="1000"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/HolyMountain.jpg?raw=true" alt="Brickwork Map Image" width="1000"/>
 
 A roaming map that almost perfectly replicates the Holy Mountain from Noita using the new MapImageObjects mod.
+
+### Aethereal
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Aethereal.jpg?raw=true" alt="Aethereal Map Image" width="500"/>
+
+A small arena surrounded by water from Rivals of Aether.
+
+### Arachnophobia
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Arachnophobia.jpg?raw=true" alt="Arachnophobia Map Image" width="500"/>
+
+A dark sci-fi arena from Spiderheck.
+
+### Cavernous
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Cavernous.jpg?raw=true" alt="Cavernous Map Image" width="500"/>
+
+Dangerous winding caves from Spelunky 2.
+
+### Entomology
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Entomology.jpg?raw=true" alt="Entomology Map Image" width="1000"/>
+
+A roaming map featuring the dark passageways of Hollow Knight.
+
+### Geometric
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Geometric.jpg?raw=true" alt="Geometric Map Image" width="500"/>
+
+A basic open geometric map from Geometry Dash.
+
+### Improvisation
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Improvisation.jpg?raw=true" alt="Improvisation Map Image" width="500"/>
+
+A slightly modified stage from Mosa Lina.
+
+### Inspired
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Inspired.jpg?raw=true" alt="Inspired Map Image" width="500"/>
+
+A tactical card battle from Slay the Spire.
+
+### Kaleidoscopic
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Kaleidoscopic.jpg?raw=true" alt="Kaleidoscopic Map Image" width="500"/>
+
+A slightly modified room from Hue.
+
+### Last Resort
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/LastResort.jpg?raw=true" alt="Last Resort Map Image" width="500"/>
+
+Another Celeste themed map featuring alternating blue and pink blocks.
+
+### Monsoon
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Monsoon.jpg?raw=true" alt="Monsoon Map Image" width="500"/>
+
+A modified environment from Rain World. Use the crates to get out of the green depths and manuever off the moving batflies.
+
+### Necrosis
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Necrosis.jpg?raw=true" alt="Necrosis Map Image" width="500"/>
+
+A slightly smaller stage from Dead Cells.
+
+### Progenitor
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Progenitor.jpg?raw=true" alt="Progenitor Map Image" width="500"/>
+
+A more open map themed around Stick Fight.
+
+### Purple Rain
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/PurpleRain.jpg?raw=true" alt="Purple Rain Map Image" width="500"/>
+
+A map featuring floating meadows from Risk of Rain Returns.
+
+### Quackrobatics
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Quackrobatics.jpg?raw=true" alt="Quackrobatics Map Image" width="500"/>
+
+A map featuring a destructive battlefield from Duck Game.
+
+### Romantik
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Romantik.jpg?raw=true" alt="Romantik Map Image" width="500"/>
+
+A slightly modified version of the mines of Dome Keeper.
+
+### Styxian
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Styxian.jpg?raw=true" alt="Styxian Map Image" width="500"/>
+
+A map featuring the fiery underworld of Terraria alongside a familiar face that slowly reveals itself from offscreen.
+
+### Terrafic
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Terrafic.jpg?raw=true" alt="Terrafic Map Image" width="500"/>
+
+A slightly modified version of Terraria's box art.
+
+### Underwhelm
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Underwhelm.jpg?raw=true" alt="Underwhelm Map Image" width="300"/>
+
+A thin but tall map from Downwell.
+
+### Vendetta
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Vendetta.jpg?raw=true" alt="Vendetta Map Image" width="500"/>
+
+A map with moving obstacles that can be to your benefit or detriment from VVVVVV.
+
+### Zuology
+
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Zuology.jpg?raw=true" alt="Zuology Map Image" width="500"/>
+
+A simple map that could be hiding many unseen sides from Fez.
+
 
 ---
 ## Bug Reports and Suggestions:
