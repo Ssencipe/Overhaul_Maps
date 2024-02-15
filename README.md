@@ -8,10 +8,12 @@ Additional information like the Changelog are in tabs above.
 
 ## You can also simply just turn on the settings of the ToggleEffects mod. If they are not already enabled.
 
+# There are a LOT of map images, and some may not load in. To see the README without any loading issues, go to [the mod's GitHub page](https://github.com/Ssencipe/Overhaul_Maps). I will also update the Wiki tab above to display the maps and other information.
+
 # Current Maps:
 #### Adds 69 maps
 
-(Note: liquids, black boxes, some ropes, and other things may not appear properly on the map images)
+(Note: liquids, black boxes, some ropes, and other things may not appear properly on the map images. Any images that don't load can be seen in GitHub or Wiki tab.)
 
 ### Orbitals
 
@@ -235,9 +237,9 @@ A prehistoric map with dinosaurs and cacti slowly moving across the screen. Make
 
 Another old school map that takes place in a blue maze with colored ghosts (saws) and fruit.
 
-### Tic Tac Toe
+### Criss Cross
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/TicTacToe.png?raw=true" alt="Tic Tac Toe Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/CrissCross.png?raw=true" alt="Criss Cross Map Image" width="500"/>
 
 A simple map that perpetually plays out a game of Tic Tac Toe.
 
@@ -430,6 +432,6 @@ A simple map that could be hiding many unseen sides from Fez.
 
 ---
 ## Bug Reports and Suggestions:
-If you have found any issues or have any suggestions, please report them in the [ROUNDS Overhaul Discord](https://discord.com/channels/1038199747472797756/1042822464457154613).
+If you have found any issues or have any suggestions, please report them in the [ROUNDS Overhaul Discord](https://discord.com/channels/1038199747472797756/1042822464457154613) or this mod's [GitHub page](https://github.com/Ssencipe/Overhaul_Maps).
 
 I can also be reached at the [ROUNDS Modding Discord](https://discord.gg/rounds-modding). 

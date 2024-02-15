@@ -1,3 +1,42 @@
+# Version 2.0.1:
+
+Hotfix to the big 2.0 Phase 1 update - this is not Phase 2. Fixing some issues and adding in one map rework that was delayed due to a bug in a dependency mod (I removed a minor feature to work around it).
+
+- Renamed Tic-Tac-Toe to Criss Cross (I forgot how on-the-nose this name was when doing my other naming scheme changes.)
+
+- Reworked Magmatic:
+Swapped out blocks for magmatic rock sprites;
+Added a fitting volcanic background;
+Added a lava background to make the lava more clear;
+Added more platforms;
+Added a danger sign;
+Made tweaks to platform positioning and eruption mechanism;
+
+- Fixed Brickwork: 
+Note that this was going to be a delayed rework due to the same issues as Magmatic, but I am partially releasing it now having removed several planned features in order to hotfix an issue;
+Fixed the old image not loading in and replaced it with a brand new level image with much less clutter
+
+- Tweaked Herpetology:
+Lowered the bottom platforms and removed an oddly positioned "food" platform
+
+- Fixed Rotational:
+Background image was a tad too small
+
+- Tweaked Overhaul:
+Made level image brighter to outline all map elements better
+
+- Tweaked Kaleidoscopic:
+Removed bottom left lasers from level image as it was confusing
+
+- Tweaked Arachnophobia:
+Removed UI elements from level image
+
+- Tweaked Geometric:
+Removed UI element from level image
+
+- Tweaked Improvisation:
+Removed central from level image
+
 # Version 2.0.0:
 
 This is phase one of Overhaul Maps 2.0, where I plan to revamp all my existing maps and add tons of new ones over the course of a couple updates. I would like to thank everyone that has done playtesting for me during this process as well as anyone who generally gave feedback or support.
