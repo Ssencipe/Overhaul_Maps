@@ -71,7 +71,7 @@ A map built like a plinko board. Saws will fall down the map and reappear at the
 
 ### Magmatic
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Magmatic.png?raw=true" alt="Magmatic Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Magmatic.jpg?raw=true" alt="Magmatic Map Image" width="500"/>
 
 A map with a central volcano that constantly spews molten rock. Getting hit will set you on fire.
 
