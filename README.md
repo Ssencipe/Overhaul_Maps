@@ -149,15 +149,15 @@ A complex map with moving saws and a platform that can be dropped onto moving bl
 
 ### Coalesce
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Coalesce.png?raw=true" alt="Coalesce Map Image" width="500"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Coalesce.jpg?raw=true" alt="Coalesce Map Image" width="500"/>
 
-A map with moving platforms and saws that separate and then come together again.
+A map with moving platforms that separate and then come together again.
 
 ### Weave
 
 <img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Weave.jpg?raw=true" alt="Weave Map Image" width="500"/>
 
-A map with fast saws that swing by from off screen at regular intervals.
+A map with saws that drop in from off screen at regular intervals.
 
 ### Division
 
@@ -305,7 +305,7 @@ A roaming map set in a lab of a mad scientist with a functioning teleporter. Jus
 
 ### Brickwork
 
-<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/HolyMountain.jpg?raw=true" alt="Brickwork Map Image" width="1000"/>
+<img src="https://github.com/Ssencipe/Overhaul_Maps/blob/main/Image/Brickwork.jpg?raw=true" alt="Brickwork Map Image" width="1000"/>
 
 A roaming map that almost perfectly replicates the Holy Mountain from Noita using the new MapImageObjects mod.
 

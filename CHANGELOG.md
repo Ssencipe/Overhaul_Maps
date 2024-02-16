@@ -1,3 +1,36 @@
+# Version 2.0.2:
+
+Hotfix 2 for update 2.0 Phase 1. Very similar changes to hotfix 1.
+
+- Reworked Coalesce:
+Same scenario as Magmatic and Brickwork changes in 2.0.1;
+Removed the saws;
+Made OH logo dynamic component of level;
+Made platforms taller and adjusted spacing;
+Slowed down movement of platforms;
+Attached more ropes between platforms for stability and made ropes invisible;
+Added a mechanical themed background;
+Changed platform color
+
+- Reworked Weave:
+Replaced mechanical saw system with consistent animation system;
+Saws now fall in a straight line over 2 seconds and then pause for 2 seconds;
+Saws alternate between center and perimeter drops;
+Saws are all the same size now;
+Tweaked platform positioning;
+Moved hazard signs to top and increased opacity;
+Moved 2 spawns to have less immediate line of sight on enemies;
+
+- Fixed Cavernous:
+Forgot to add an OH logo
+
+- Tweaked Monsoon:
+Reduced color intensity of background, which should make it less faded and even slightly transparent, to improve map clarity; 
+Further improvements to map clarity will be made across the board when image opacity bug is fixed
+
+- Adjusted README images to reflect the minor visual changes made in hotfixes
+
+---
 # Version 2.0.1:
 
 Hotfix to the big 2.0 Phase 1 update - this is not Phase 2. Fixing some issues and adding in one map rework that was delayed due to a bug in a dependency mod (I removed a minor feature to work around it).
@@ -10,7 +43,7 @@ Added a fitting volcanic background;
 Added a lava background to make the lava more clear;
 Added more platforms;
 Added a danger sign;
-Made tweaks to platform positioning and eruption mechanism;
+Made tweaks to platform positioning and eruption mechanism
 
 - Fixed Brickwork: 
 Note that this was going to be a delayed rework due to the same issues as Magmatic, but I am partially releasing it now having removed several planned features in order to hotfix an issue;
@@ -26,7 +59,7 @@ Background image was a tad too small
 Made level image brighter to outline all map elements better
 
 - Tweaked Kaleidoscopic:
-Removed bottom left lasers from level image as it was confusing
+Removed bottom right lasers from level image as it was confusing
 
 - Tweaked Arachnophobia:
 Removed UI elements from level image
@@ -35,8 +68,11 @@ Removed UI elements from level image
 Removed UI element from level image
 
 - Tweaked Improvisation:
-Removed central from level image
+Removed central text from level image
 
+- Restructured README
+
+---
 # Version 2.0.0:
 
 This is phase one of Overhaul Maps 2.0, where I plan to revamp all my existing maps and add tons of new ones over the course of a couple updates. I would like to thank everyone that has done playtesting for me during this process as well as anyone who generally gave feedback or support.
