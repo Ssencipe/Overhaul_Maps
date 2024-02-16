@@ -2,7 +2,7 @@
 
 A set of unique 8-player maps that tend to have fun gimmicks and dynamic elements that encourage map-centric play.
 
-Additional information like the Changelog are in tabs above.
+Additional information like the Changelog and Wiki are in tabs above.
 
 ## It is recommended that you reduce the screen shake settings by going to Mods -> Performance Improvements -> Miscellaneous and reducing the screen shake strength value from 100 to ~10. The overhead light shake and chromatic aberrations can also be disabled if desired.
 

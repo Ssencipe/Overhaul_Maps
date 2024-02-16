@@ -28,6 +28,9 @@ Forgot to add an OH logo
 Reduced color intensity of background, which should make it less faded and even slightly transparent, to improve map clarity; 
 Further improvements to map clarity will be made across the board when image opacity bug is fixed
 
+- Tweaked Overhaul:
+Made level image opacity just a tad lower and increased the definition of the "M"'s legs a bit
+
 - Adjusted README images to reflect the minor visual changes made in hotfixes
 
 ---
